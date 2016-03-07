@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello world!\n");
+	printf("A new C file for the branch...\n");
 	return 0;
 }
